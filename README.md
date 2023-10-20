@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu sou o Edemilson S. Dutra</h1>
 <h3 align="center">Um trabalhador da saúde apaixonado por tecnologia</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Mídias Sociais:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/edemilson-dutra-b661a5280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edemilson-dutra-b661a5280/" height="30" width="40" /></a>
 <a href="https://instagram.com/milelooficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milelooficial/" height="30" width="40" /></a>

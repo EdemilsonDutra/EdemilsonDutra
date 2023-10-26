@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou o Edemilson S. Dutra</h1>
+<h1 align="center">Oi, meu nome é Edemilson S. Dutra</h1>
 <h3 align="center">Um trabalhador da saúde apaixonado por tecnologia</h3>
 
 <h3 align="left">Mídias Sociais:</h3>

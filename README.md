@@ -1,5 +1,6 @@
-<h1 align="center">Oi, meu nome é Edemilson S. Dutra</h1>
-<h3 align="center">Um trabalhador da saúde apaixonado por tecnologia</h3>
+<h1 align="center">Edemilson S. Dutra</h1>
+<h3 align="center">Cursando - Engenharia de Software</h3>
+<h3 align="center">Formado em Análise e Desenvolvimento de Sistemas</h3>
 
 <h3 align="left">Mídias Sociais:</h3>
 <p align="left">
